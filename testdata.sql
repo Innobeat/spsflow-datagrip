@@ -1,0 +1,12 @@
+1,,SPS-G1FFF-1,Vernon MacConnel,eud,,31-08-2023,Ukendt,godkendt,false,291002-7780,,,"øster uttrup vej 1, 9000, aalborg, techcollege, (851401)",hovedforløb,01-02-2023,30-06-2025,31-08-2023,30-06-2025,Psykisk funktionsnedsættelse el. udviklingsforstyrrelse:Støttetimer,Psykisk funktionsnedsættelse el. udviklingsforstyrrelse | Støttetimer:Demo,2024-05-16 05:23:54
+2,,SPS-G2FCB-12,Casandra Hargreave,eud,,10-01-2024,Ukendt,godkendt,false,081004-6878,,,"rørdalsvej 10, 9000, aalborg, techcollege, food, (851463)",hovedforløb,01-05-2023,31-05-2025,18-12-2023,26-05-2025,Synsnedsættelse:Støttetimer,Synsnedsættelse | Støttetimer:Demo,2024-05-16 05:23:54
+3,,SPS-G1562-3,Kiley Sprowle,eud,,10-08-2023,Ukendt,godkendt,false,281002-7508,,,"øster uttrup vej 1, 9000, aalborg, techcollege, (851401)",hovedforløb,01-08-2022,31-12-2025,10-08-2023,31-12-2025,Psykisk funktionsnedsættelse el. udviklingsforstyrrelse:Støttetimer,Psykisk funktionsnedsættelse el. udviklingsforstyrrelse | Støttetimer:Demo,2024-05-16 05:23:54
+4,,SPS-GF178-8,Gawen Jewson,eud,,07-08-2023,Ukendt,godkendt,false,281203-6150,,,"øster uttrup vej 1, 9000, aalborg, techcollege, (851401)",eud/sosu forløb,01-06-2023,28-02-2027,07-08-2023,28-02-2027,Læse- skrivevanskeligheder:Læse-skriveteknologi for ordblinde|Læse- skrivevanskeligheder:Undervisningsmaterialer (Nota)|Læse- skrivevanskeligheder:Støttetimer|Læse- skrivevanskeligheder:Instruktion,Læse- skrivevanskeligheder | Læse-skriveteknologi for ordblinde:Demo,2024-05-16 05:23:54
+
+
+
+1,"studiestøttetimer, andet, EUD/AMU/TAMU",50,01-08-2023,31-12-2023,14.250 kr.,false,true,false,false,SPS-G1562-3,Afsluttet,Underviser på udd.stedet,1,1461450,Forår 01-05-2024 - 30-06-2024|Efterår 01-08-2024 - 31-12-2024
+2,"Ramme, EUD/SOSU/FGU/AMU/TAMU/avu/FVU",1,01-08-2023,31-12-2023,2.000 kr.,false,true,false,false,SPS-GF178-8,Leveret,Nota,1,1458924,Forår 01-05-2024 - 30-06-2024|Efterår 01-08-2024 - 31-12-2024
+3,"studiestøttetimer, andet, EUD/AMU/TAMU",50,01-08-2023,31-12-2023,14.250 kr.,false,true,false,false,SPS-G1FFF-1,Afsluttet,Underviser på udd.stedet,1,1474800,Efterår 01-08-2024 - 31-12-2024
+4,"studiestøttetimer, andet, EUD/AMU/TAMU",,01-05-2024,30-06-2024,2.850 kr.,false,true,true,false,SPS-G1FFF-1,I gang,Underviser på udd.stedet,1,SPS-11FFF-1,Efterår 01-08-2024 - 31-12-2024
+5,"studiestøttetimer, andet, EUD/AMU/TAMU",50,10-01-2024,30-06-2024,14.250 kr.,false,true,false,false,SPS-G2FCB-12,I gang,Underviser på udd.stedet,1,1562575,Efterår 01-08-2024 - 31-12-2024
